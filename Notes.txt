@@ -1,0 +1,3 @@
+react-router-dom:  for routing to different pages
+
+react-google-charts:  for displaying charts
